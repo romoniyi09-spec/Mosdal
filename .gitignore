@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dist-ssr/
+.env
+.env.local
+.vite/
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
