@@ -69,10 +69,10 @@ const About = () => {
               </h2>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  Mosdal Branding Solution was born out of a simple observation: Nigerian businesses deserved world-class print and branding quality. In 2018, founder Moshood Alola invested in a single large-format printer and a small workspace in Victoria Island. Within six months, word spread fast.
+                  Mosdal Branding Solution was born out of a simple observation: Nigerian businesses deserved world-class print and branding quality. In 2018,founder Moshood Alola invested in a single printer and a small workspace in the city of ibadan. Within some months, word spread fast.
                 </p>
                 <p>
-                  By 2020, we had outgrown our first studio. We relocated to a 3,000 sqft facility, expanded our team to 12, and invested in industry-leading equipment — from UV flatbed printers to embroidery machines and laser cutters.
+                  By 2020, we had outgrown our first studio. We relocated to a 3,000 sqft facility, expanded our team, and invested in industry-leading equipment .
                 </p>
                 <p>
                   Today, Mosdal Branding Solution is the go-to branding partner for startups, corporates, events, and everything in between. Our mission remains the same: to give every brand the visual identity it deserves.
